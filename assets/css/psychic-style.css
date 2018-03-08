@@ -1,0 +1,24 @@
+body {
+    background-image: url(../images/darkness.png)
+}
+
+h1 {
+    text-align: center;
+    color:#20B2AA;
+}
+
+p {
+    text-align:center;
+    color: #72a5db;
+}
+
+.compGen {
+    color: #72a5db;
+}
+
+img {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
